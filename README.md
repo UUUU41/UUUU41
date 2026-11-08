@@ -77,10 +77,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UUUU41&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=2563EB" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=UUUU41&hide_border=true&background=052E16&ring=22C55E&fire=84CC16&currStreakLabel=4ADE80&sideLabels=A7F3D0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A7F3D0" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UUUU41&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22C55E" height="165"/>
 
 </div>
 
