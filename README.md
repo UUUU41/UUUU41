@@ -97,16 +97,6 @@
 
 ---
 
-## 🏙️ 3D Contribution Skyline
-
-<div align="center">
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-</div>
-
----
-
 ## 🟡 Pac-Man Eats My Contributions
 
 <div align="center">
